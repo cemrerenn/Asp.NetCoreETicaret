@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASPCORECALISMA
+build_property.RootNamespace = ASPCORECALISMA
+build_property.ProjectDir = C:\Users\cemre\Desktop\Yeni klasör\ASPCORECALISMA\ASPCORECALISMA\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\cemre\Desktop\Yeni klasör\ASPCORECALISMA\ASPCORECALISMA
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Admin/AdminCarousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5DYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Admin/CategoriesMonth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcmllc01vbnRoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Admin/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Admin/FirmalarDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmlybWFsYXJEZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Admin/FirmalarList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmlybWFsYXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Admin/GetRol.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0Um9sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Admin/MusterilerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTXVzdGVyaWxlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Admin/UrunGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXJ1bkd1bmNlbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Admin/Urunler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXJ1bmxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/ErrorPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/RegisterUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJVc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Shared/Components/Carousel/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2Fyb3VzZWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Shared/Components/CategoriesMonth/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc01vbnRoXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Shared/Components/ComingSoon/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29taW5nU29vblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Shared/Components/Kategori/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcS2F0ZWdvcmlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Shared/Components/shopcards/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcc2hvcGNhcmRzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/ShoppingCart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/ShopSingle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFNpbmdsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/Yeni klasör/ASPCORECALISMA/ASPCORECALISMA/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r89yp2zz9r

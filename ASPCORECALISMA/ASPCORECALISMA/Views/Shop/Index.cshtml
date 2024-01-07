@@ -1,0 +1,14 @@
+﻿
+@model List<ASPCORECALISMA.Models.Urunler>
+
+  <!-- shop sayfası -->
+<<div class="container py-5">
+    <div class="row">
+        <div class="col-lg-3">
+            @await Component.InvokeAsync("Kategori")
+        </div>
+        <div class="col-lg-9">
+            @await Component.InvokeAsync("shopcards",Model)
+        </div>
+    </div>
+</div>

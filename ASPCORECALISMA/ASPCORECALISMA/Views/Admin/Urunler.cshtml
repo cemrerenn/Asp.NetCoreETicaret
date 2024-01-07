@@ -1,0 +1,86 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model List<ASPCORECALISMA.Models.Urunler>
+<div class="card-body" border-collapse: collapse;>
+    <h4 style="margin-left:50%;" class="card-title">Ürünler</h4>
+    <div class="table-responsive">
+
+        
+        <table class="table" style="width:50%; height:auto;margin-left:250px">
+
+            <thead>
+                <tr>
+                    <th>
+                        Urun ID
+                    </th>
+                    <th>
+                        Urun Foroğraf
+                    </th>
+                    <th>
+                        Urun Adı
+                    </th>
+                    <th>
+                        Urun Kategori
+                    </th>
+                   
+                    <th>
+                        Urun Firma
+                    </th>
+                    <th>
+                        Urun Fiyat
+                    </th>
+
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tbody>
+                    <tr>
+                        <td>
+                            @item.UrunID
+                        </td>
+                        <td>
+                            <img class="flex-shrink-0 img-fluid border rounded" src=@item.UrunUrl1 alt="" style="width: 50px; height: 50px;">
+                        </td>
+                        <td>
+                            @item.UrunAdi
+                        </td>
+
+                        <td>
+                            @item.Kategoriler.KategoriAd
+                        </td>
+                       
+                        <td>
+                            @item.firmalar.FirmaAdi
+                        </td>
+                        <td>
+                            @item.UrunFiyat
+                        </td>
+                        <td>
+                            <div class="btn-group">
+                                <form method="get" action="/Admin/Urunler" >
+                                    <input type="hidden" name="id" value="@item.UrunID" />
+                                    <button type="submit" class="btn btn-outline-primary" >Sil</button>
+                                </form>
+                                <form method="get" action="/Admin/UrunGuncelle">
+                                    <input type="hidden" name="id" value="@item.UrunID" />
+                                    <button type="submit" class="btn btn-outline-primary">Güncelle</button>
+                                </form>
+                                <form method="get" action="/ShopSingle/index">
+                                    <input type="hidden" name="id" value="@item.UrunID" />
+                                    <button type="submit" class="btn btn-outline-primary">Görüntüle</button>
+                                </form>
+                                
+                             </div>
+                        </td>
+
+                    </tr>
+
+                </tbody>
+            }
+        </table>
+    </div>
+</div>

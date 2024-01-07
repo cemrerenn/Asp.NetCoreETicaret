@@ -1,0 +1,70 @@
+﻿@model ASPCORECALISMA.Models.Urunler
+<section class="bg-light">
+    <div class="container pb-5">
+        <div class="row">
+            <div class="col-lg-5 mt-5">
+                <div class="card mb-3">
+                    <img class="card-img img-fluid" src=@Model.UrunUrl1 alt="Card image cap" id="product-detail">
+                </div>
+                <div class="row">
+                   
+                </div>
+            </div>
+            <!-- col end -->
+            <div class="col-lg-7 mt-5">
+                <div class="card">
+                    <div class="card-body">
+                        <form action="/Admin/UrunGuncelle" method="post">
+                            <h6>Ürün Adı:</h6>
+                            <div class="form-group">
+                                <input type="text" name="urunad" class="form-control" value="@Model.UrunAdi">
+                            </div>
+
+                          
+                            <p class="h3 py-2">
+                            <h6>Fiyat:</h6>
+                            <div class="form-group">
+                                <input type="text" name="fiyat" class="form-control" value="@Model.UrunFiyat">
+                            </div>
+
+                        </p>
+
+                        <ul class="list-inline">
+                            <li class="list-inline-item">
+                                <h6>Firma:</h6>
+                            </li>
+                            <li class="list-inline-item">
+                                <p class="text-muted"><strong>@Model.firmalar.FirmaAdi</strong></p>
+                            </li>
+                        </ul>
+                        <ul class="list-inline">
+                            <li class="list-inline-item">
+                                <h6>Kategori:</h6>
+                            </li>
+                            <li class="list-inline-item">
+                                <p class="text-muted"><strong>@Model.Kategoriler.KategoriAd</strong></p>
+                            </li>
+                        </ul>
+
+                        <h6>Description:</h6>
+                        <div class="form-group">
+                            <input type="text" name="aciklama" class="form-control" value="@Model.UrunAciklama">
+                        </div>
+                        <hr />  
+                    
+                                    
+                            <div class="row pb-3">
+                               
+                                <div class="col d-grid">
+                                    <button type="submit" class="btn btn-success btn-lg" name="id" value="@Model.UrunID">GÜNCELLE</button>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Close Content -->

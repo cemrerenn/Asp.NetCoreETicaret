@@ -1,0 +1,47 @@
+﻿@model ASPCORECALISMA.Models.Firmalar
+
+
+<!-- Open Content -->
+<section class="bg-light">
+    <div class="container pb-5">
+        <div class="row">
+            <div class="col-lg-5 mt-5">
+                <div class="card mb-3">
+                    <img class="card-img img-fluid" src=@Model.FirmaLogoUrl alt="Card image cap" id="product-detail">
+                </div>
+                <div class="row">
+                   
+                </div>
+            </div>
+            <!-- col end -->
+            <div class="col-lg-7 mt-5">
+                <div class="card">
+                    <div class="card-body">
+                        <h1 class="h2">@Model.FirmaAdi</h1>
+                        
+                        <ul class="list-inline">
+                            <li class="list-inline-item">
+                                <h6>Vergi No:</h6>
+                            </li>
+                            <li class="list-inline-item">
+                                <p class="text-muted"><strong>@Model.FirmaVergiNo</strong></p>
+                            </li>
+                        </ul>
+                        <ul class="list-inline">
+                            <li class="list-inline-item">
+                                <h6>Firma Açıklama:</h6>
+                            </li>
+                            <li class="list-inline-item">
+                                <p class="text-muted"><strong>@Model.FirmaAciklama</strong></p>
+                            </li>
+                        </ul>
+
+                        <h6>Adres:</h6>
+                        <p>@Model.FirmaAdresi/@Model.iller.illerAD</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Close Content -->

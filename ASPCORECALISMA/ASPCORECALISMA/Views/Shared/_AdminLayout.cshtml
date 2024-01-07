@@ -1,0 +1,121 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Purple Admin</title>
+    <!-- plugins:css -->
+    <link rel="stylesheet" href="~/AdminFiles/node_modules/mdi/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="~/AdminFiles/node_modules/perfect-scrollbar/dist/css/perfect-scrollbar.min.css">
+    <!-- endinject -->
+    <!-- plugin css for this page -->
+    <link rel="stylesheet" href="~/AdminFiles/node_modules/jquery-bar-rating/dist/themes/css-stars.css">
+    <link rel="stylesheet" href="~/AdminFiles/node_modules/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css" />
+    <!-- End plugin css for this page -->
+    <!-- inject:css -->
+    <link rel="stylesheet" href="~/AdminFiles/css/style.css">
+    <!-- endinject -->
+    <link rel="shortcut icon" href="~/AdminFiles/images/favicon.png" />
+</head>
+<body style="background-color:white">
+    <div class="container-scroller">
+
+        <div class="container-fluid page-body-wrapper">
+            <div class="row row-offcanvas row-offcanvas-right">
+                <!-- partial:partials/_sidebar.html -->
+                <nav class="sidebar sidebar-offcanvas" id="sidebar">
+                    <ul class="nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Admin/Index">
+                                <span class="menu-title">Home</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Admin/">
+                                <span class="menu-title">Dashboard</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Admin/urunler">
+                                <span class="menu-title">Ürünler</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Admin/MusterilerList">
+                                <span class="menu-title">Müşteriler</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Admin/firmalarlist">
+                                <span class="menu-title">Firmalar</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Admin/AdminCarousel">
+                                <span class="menu-title">Carousel</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Admin/CategoriesMonth">
+                                <span class="menu-title">Ayın Ürünleri</span>
+                            </a>
+                        </li> 
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Admin/Contact">
+                                <span class="menu-title">Contact</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Admin/GetRol">
+                                <span class="menu-title">Roller</span>
+                            </a>
+                        </li>
+
+                    </ul>
+                </nav>
+                <!-- partial -->
+                <div style="margin:auto">
+                    @RenderBody()
+                </div>
+
+                <!-- content-wrapper ends -->
+                <!-- partial:partials/_footer.html -->
+                <footer class="footer">
+                    <div class="d-sm-flex justify-content-center justify-content-sm-between">
+                        <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2017 <a href="https://www.bootstrapdash.com/" target="_blank">Bootstrap Dash</a>. All rights reserved.</span>
+                        <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Hand-crafted & made with <i class="mdi mdi-heart text-danger"></i></span>
+                    </div>
+
+                </footer>
+                <!-- partial -->
+            </div>
+            <!-- row-offcanvas ends -->
+        </div>
+        <!-- page-body-wrapper ends -->
+    </div>
+    <!-- container-scroller -->
+    <!-- plugins:js -->
+    <script src="~/AdminFiles/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="~/AdminFiles/node_modules/popper.js/dist/umd/popper.min.js"></script>
+    <script src="~/AdminFiles/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/AdminFiles/node_modules/perfect-scrollbar/dist/js/perfect-scrollbar.jquery.min.js"></script>
+    <!-- endinject -->
+    <!-- Plugin js for this page-->
+    <script src="~/AdminFiles/node_modules/chart.js/dist/Chart.min.js"></script>
+    <!-- End plugin js for this page-->
+    <!-- inject:js -->
+    <script src="~/AdminFiles/js/off-canvas.js"></script>
+    <script src="~/AdminFiles/js/misc.js"></script>
+    <!-- endinject -->
+    <!-- Custom js for this page-->
+    <script src="~/AdminFiles/js/dashboard.js"></script>
+    <!-- End custom js for this page-->
+</body>
+
+</html>

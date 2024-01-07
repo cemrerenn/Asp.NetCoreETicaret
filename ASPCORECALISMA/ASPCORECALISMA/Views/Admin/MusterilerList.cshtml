@@ -1,0 +1,61 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model List<ASPCORECALISMA.Models.Kullanicilar>
+<div class="card-body" border-collapse: collapse;>
+    <h4 style="margin-left:50%;" class="card-title">Kullanıcılar</h4>
+    <div class="table-responsive">
+
+
+        <table class="table" style="width:50%; height:auto;margin-left:250px">
+
+            <thead>
+                <tr>
+                    <th>
+                       Adı
+                    </th>
+                    <th>
+                        Soyadı
+                    </th>
+                    <th>
+                        
+                         E-posta
+                    </th>
+
+                    <th>
+                       Telefon
+                    </th>
+                  
+
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tbody>
+                    <tr>
+                        <td>
+                            @item.KullaniciAD
+                        </td>
+                        <td>
+                            @item.KullaniciSoyad
+                        </td>
+                        <td>
+                           @item.Email
+                        </td>
+
+                        <td>
+                           @item.PhoneNumber
+                        </td>
+                        <td>
+                            @item.
+                        </td>
+                        
+
+                    </tr>
+
+                </tbody>
+            }
+        </table>
+    </div>
+</div>

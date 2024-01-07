@@ -1,0 +1,32 @@
+﻿@model List<ASPCORECALISMA.Models.Kategoriler>
+<div class="col-lg-8" >
+   
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">
+            <a class="collapsed d-flex justify-content-between h3 text-decoration-none" href="/Shop/index">
+               Tüm Ürünler
+            </a>
+
+        </li>
+
+    </ul>
+    
+    
+    @foreach (var item in Model)
+    {
+        <form method="post" action="/Shop/index/@item.KategoriID">
+
+        <ul class="list-group list-group-flush">
+            <li  class="list-group-item">
+                <a class="collapsed d-flex justify-content-between h3 text-decoration-none" href="/Shop/index/@item.KategoriID">
+                    @item.KategoriAd
+                </a>
+
+            </li>
+            
+        </ul>
+        </form>
+    }
+</div>
+
+

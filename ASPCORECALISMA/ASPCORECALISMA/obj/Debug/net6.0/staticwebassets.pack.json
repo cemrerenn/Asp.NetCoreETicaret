@@ -1,0 +1,1473 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASPCORECALISMA.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASPCORECALISMA.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\.gitignore",
+      "PackagePath": "staticwebassets\\AdminFiles\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\PSD\\Purple_free dashboard.psd",
+      "PackagePath": "staticwebassets\\AdminFiles\\PSD\\Purple_free dashboard.psd"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\README.md",
+      "PackagePath": "staticwebassets\\AdminFiles\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\AdminFiles\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminFiles\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\fonts\\PT_Sans\\OFL.txt",
+      "PackagePath": "staticwebassets\\AdminFiles\\fonts\\PT_Sans\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\fonts\\PT_Sans\\PTSans-Bold.eot",
+      "PackagePath": "staticwebassets\\AdminFiles\\fonts\\PT_Sans\\PTSans-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\fonts\\PT_Sans\\PTSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminFiles\\fonts\\PT_Sans\\PTSans-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\fonts\\PT_Sans\\PTSans-Bold.woff",
+      "PackagePath": "staticwebassets\\AdminFiles\\fonts\\PT_Sans\\PTSans-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\fonts\\PT_Sans\\PTSans-Bold.woff2",
+      "PackagePath": "staticwebassets\\AdminFiles\\fonts\\PT_Sans\\PTSans-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\fonts\\PT_Sans\\PTSans-Regular.eot",
+      "PackagePath": "staticwebassets\\AdminFiles\\fonts\\PT_Sans\\PTSans-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\fonts\\PT_Sans\\PTSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\AdminFiles\\fonts\\PT_Sans\\PTSans-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\fonts\\PT_Sans\\PTSans-Regular.woff",
+      "PackagePath": "staticwebassets\\AdminFiles\\fonts\\PT_Sans\\PTSans-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\fonts\\PT_Sans\\PTSans-Regular.woff2",
+      "PackagePath": "staticwebassets\\AdminFiles\\fonts\\PT_Sans\\PTSans-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\gulpfile.js",
+      "PackagePath": "staticwebassets\\AdminFiles\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\samples\\Login_bg.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\samples\\Login_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\samples\\Login_bg2.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\samples\\Login_bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\images\\samples\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\images\\samples\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\index.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\js\\chart.js",
+      "PackagePath": "staticwebassets\\AdminFiles\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\AdminFiles\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\js\\misc.js",
+      "PackagePath": "staticwebassets\\AdminFiles\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\AdminFiles\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\package-lock.json",
+      "PackagePath": "staticwebassets\\AdminFiles\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\package.json",
+      "PackagePath": "staticwebassets\\AdminFiles\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\pages\\icons\\font-awesome.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\pages\\icons\\font-awesome.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\pages\\tables\\bootstrap-table.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\pages\\tables\\bootstrap-table.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\AdminFiles\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\AdminFiles\\screenshot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_auth.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\components\\_banners.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\components\\_banners.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\AdminFiles\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\AdminFiles\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\.DS_Store",
+      "PackagePath": "staticwebassets\\LoginFile\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\bootstrap\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\bootstrap\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\bootstrap\\mixins\\_reset-text.css",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\bootstrap\\mixins\\_reset-text.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\bootstrap\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\bootstrap\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\css\\style.css",
+      "PackagePath": "staticwebassets\\LoginFile\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\LoginFile\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\LoginFile\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\LoginFile\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\LoginFile\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LoginFile\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\LoginFile\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\js\\main.js",
+      "PackagePath": "staticwebassets\\LoginFile\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\js\\popper.js",
+      "PackagePath": "staticwebassets\\LoginFile\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\LoginFile\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LoginFile\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\about.html",
+      "PackagePath": "staticwebassets\\assets\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\contact.html",
+      "PackagePath": "staticwebassets\\assets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\css\\templatemo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\css\\templatemo.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\about-hero.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-hero.svg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\banner_img_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\banner_img_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\banner_img_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\brand_01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_01.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\brand_02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_02.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\brand_03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_03.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\brand_04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_04.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\category_img_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\category_img_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\category_img_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\feature_prod_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\feature_prod_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\feature_prod_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\product_single_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\product_single_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\product_single_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\product_single_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\product_single_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\product_single_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\product_single_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\product_single_08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\product_single_09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\product_single_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\shop_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\shop_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\shop_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\shop_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\shop_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\shop_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\shop_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\shop_08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\shop_09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\shop_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\img\\shop_11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\index.html",
+      "PackagePath": "staticwebassets\\assets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\js\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\js\\templatemo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\js\\templatemo.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\shop-single.html",
+      "PackagePath": "staticwebassets\\assets\\shop-single.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\shop.html",
+      "PackagePath": "staticwebassets\\assets\\shop.html"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\assets\\webfonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\Desktop\\Yeni klasör\\ASPCORECALISMA\\ASPCORECALISMA\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ASPCORECALISMA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ASPCORECALISMA.props",
+      "PackagePath": "build\\ASPCORECALISMA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ASPCORECALISMA.props",
+      "PackagePath": "buildMultiTargeting\\ASPCORECALISMA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ASPCORECALISMA.props",
+      "PackagePath": "buildTransitive\\ASPCORECALISMA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

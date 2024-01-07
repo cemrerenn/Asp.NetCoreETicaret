@@ -1,0 +1,44 @@
+﻿@model List<KullaniciRol>
+
+    @{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+    }
+
+   <div class="card-body" border-collapse: collapse;>
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+
+                <th>
+                   Id
+                </th>
+                <th>
+                    Role
+                </th>
+                
+
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tbody>
+                <tr>
+
+                    <td>
+                      @item.Id
+                    </td>
+
+                    <td>
+                       @item.Name
+                    </td>
+
+                   
+                </tr>
+
+            </tbody>
+        }
+    </table>
+</div>
+</div>

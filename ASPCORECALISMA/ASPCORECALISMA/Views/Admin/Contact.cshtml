@@ -1,0 +1,62 @@
+﻿@model List<ASPCORECALISMA.Models.Contact>
+@{
+    ViewBag.Title = "Bildirimler";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card-body" border-collapse: collapse;>
+    <h4 class="card-title">Bildirimler</h4>
+    <div class="table-responsive">
+        <table class="table" style="width:50%; height:auto;margin-left:250px">
+            <thead>
+                <tr>
+
+                    <th>
+                        AD
+                    </th>
+                    <th>
+                        EPOSTA
+                    </th>
+                    <th>
+                        KONU
+                    </th>
+                    <th>
+                        MESAJ
+                    </th>
+
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tbody>
+                    <tr>
+
+                        <td>
+                            @item.BildirimAd
+                        </td>
+
+                        <td>
+                            @item.BildirimEposta
+                        </td>
+
+                        <td>
+                            @item.BildirimKonu
+                        </td>
+                        <td>
+                            @item.BildirimAciklama
+                        </td>
+                        <td>
+                            <form action="/Admin/Contact" method="get">
+                                <input type="hidden" name="id" value="@item.BildirimID" />
+                                <button type="submit" class="btn btn-outline-primary">SİL</button>
+                            </form>
+                        </td>
+                    </tr>
+
+                </tbody>
+            }
+        </table>
+    </div>
+</div>
+
+
